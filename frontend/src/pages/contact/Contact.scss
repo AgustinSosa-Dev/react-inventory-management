@@ -1,0 +1,73 @@
+.contact {
+  .card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+  }
+
+  .card2 {
+    background-color: var(--light-blue);
+    color: #fff;
+    padding: 2rem;
+    h3,
+    p {
+      color: #fff;
+    }
+    .icons {
+      margin: 3rem 0;
+      span {
+        align-items: center;
+        display: flex;
+        justify-content: flex-start;
+        margin-bottom: 1rem;
+        a,
+        p {
+          margin-left: 5px;
+        }
+      }
+    }
+  }
+
+  .section {
+    align-items: flex-start;
+    display: flex;
+
+    form {
+      margin-bottom: 1rem;
+      margin-right: 1rem;
+      max-width: 100%;
+      width: 500px;
+      label {
+        display: block;
+        font-size: 1.4rem;
+        font-weight: 500;
+      }
+      input[type="text"],
+      input[type="number"],
+      input[type="file"],
+      input[type="email"],
+      select,
+      textarea,
+      input[type="password"] {
+        border: 1px solid #777;
+        border-radius: 3px;
+        display: block;
+        font-size: 1.6rem;
+        font-weight: 300;
+        margin: 1rem auto;
+        outline: none;
+        padding: 1rem;
+        resize: none;
+        width: 100%;
+
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .contact {
+    .section {
+      flex-direction: column;
+    }
+  }
+}

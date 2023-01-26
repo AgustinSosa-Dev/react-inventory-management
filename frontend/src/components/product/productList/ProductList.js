@@ -107,7 +107,7 @@ const ProductList = ({ products, isLoading }) => {
                   <th>Category</th>
                   <th>Price</th>
                   <th>Quantity</th>
-                  <th>Total ssValue</th>
+                  <th>Total Value</th>
                   <th>Action</th>
                 </tr>
               </thead>

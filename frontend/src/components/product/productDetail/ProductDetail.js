@@ -80,7 +80,9 @@ const ProductDetail = () => {
               dangerouslySetInnerHTML={{
                 __html: DOMPurify.sanitize(product.description),
               }}
-            ></div>
+            >
+              <b>&rarr; Descripción </b>
+            </div>
             <hr />
             <code className="--color-dark">
               Created on: {product.createdAt.toLocaleString("en-US")}

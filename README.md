@@ -54,7 +54,7 @@ npm start
      <li>"express": "^4.18.2"</li>
      <li>"express-async-handler": "^1.2.0"</li>
      <li>"jsonwebtoken": "^9.0.0"</li>
-     <li>"mongoose": "^6.8.3</li>"</li>
+     <li>"mongoose": "^6.8.3"</li>
      <li>"multer": "^1.4.5-lts.1""</li>
      <li>"nodemailer": "^6.9.0"</li>
      <li>"nodemon": "^2.0.20"</li>

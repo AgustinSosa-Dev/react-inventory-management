@@ -26,7 +26,7 @@ app.use(bodyParser.json());
 // );
 
 const corsOptions = {
-  origin: "https://react-inventory-management.vercel.app/",
+  origin: "https://react-inventory-management.vercel.app",
   credentials: true, //access-control-allow-credentials:true
   optionSuccessStatus: 200,
 };

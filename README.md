@@ -2,7 +2,7 @@
 
 ¡Hola a todos!
 
-Esta es una aplicación, desarrollada con React.
+Esta es una aplicación, Full-Stack centrada principalmente en el Stack (MERN) "MongoDB, Express, React y Node"
 
 Se trata, de un Sistema de inventario para controlar y gestionar productos en el almacén en tiempo real e integrado para facilitar el desarrollo de su negocio.
 

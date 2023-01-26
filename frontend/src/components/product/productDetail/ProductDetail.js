@@ -76,13 +76,12 @@ const ProductDetail = () => {
               {product.price * product.quantity}
             </p>
             <hr />
+            <b>&rarr; Descripción </b>
             <div
               dangerouslySetInnerHTML={{
                 __html: DOMPurify.sanitize(product.description),
               }}
-            >
-              <b>&rarr; Descripción </b>
-            </div>
+            ></div>
             <hr />
             <code className="--color-dark">
               Created on: {product.createdAt.toLocaleString("en-US")}

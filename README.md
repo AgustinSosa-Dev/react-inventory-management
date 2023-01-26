@@ -38,6 +38,7 @@ npm start
 ```
    
 <h2>De esta forma, el proyecto será desplegado de manera local.</h2> 
+  
 [http://localhost:3000](http://localhost:3000) 
 
 

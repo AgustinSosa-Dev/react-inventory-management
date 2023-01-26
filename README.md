@@ -64,11 +64,11 @@ npm start
 🛠️ Frontend, construido utilizando las siguientes dependencias: 
 
 <ul>
-    <li>"@reduxjs/toolkit": "^1.9.1"</li></li>
+    <li>"@reduxjs/toolkit": "^1.9.1"</li>
     <li>"axios": "^1.2.3"</li>
     <li>"dompurify": "^2.4.3"</li>
    <li> "node-sass": "^8.0.0"</li>
-    <li>"react": "^18.2.0"
+    <li>"react": "^18.2.0"</li>
     <li>"react-confirm-alert": "^3.0.6"</li>
     <li>"react-dom": "^18.2.0"</li>
     <li>"react-icons": "^4.7.1"</li>

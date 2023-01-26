@@ -38,21 +38,47 @@ npm start
 ```
    
 <h2>De esta forma, el proyecto será desplegado de manera local.</h2> 
+  
 [http://localhost:3000](http://localhost:3000) 
 
 
-🛠️ Construido, utilizando las siguientes dependencias: 
+🛠️ Backend, construido utilizando las siguientes dependencias: 
   
 
 <ul>
-    <li>react</li>
-    <li>react-dom</li>
-    <lireact-helmet</li>
-    <li>react-player</li>
-    <li>react-router-dom</li>
-    <li>axios</li>
-    <li>@emotion/react</li>
-    <li>@emotion/styled</li>
-    <li>@mui/material</li>
-    <li>mui/icons-material</li>
+    <li>"bcryptjs": "^2.4.3"</li>
+     <li>"body-parser": "^1.20.1"</li>
+     <li>"cloudinary": "^1.33.0"</li>
+     <li>"cookie-parser": "^1.4.6"</li>
+     <li>"cors": "^2.8.5"</li>
+     <li>"dotenv": "^16.0.3"</li>
+     <li>"express": "^4.18.2"</li>
+     <li>"express-async-handler": "^1.2.0"</li>
+     <li>"jsonwebtoken": "^9.0.0"</li>
+     <li>"mongoose": "^6.8.3"</li>
+     <li>"multer": "^1.4.5-lts.1""</li>
+     <li>"nodemailer": "^6.9.0"</li>
+     <li>"nodemon": "^2.0.20"</li>
 </ul>
+
+
+🛠️ Frontend, construido utilizando las siguientes dependencias: 
+
+<ul>
+    <li>"@reduxjs/toolkit": "^1.9.1"</li>
+    <li>"axios": "^1.2.3"</li>
+    <li>"dompurify": "^2.4.3"</li>
+   <li> "node-sass": "^8.0.0"</li>
+    <li>"react": "^18.2.0"</li>
+    <li>"react-confirm-alert": "^3.0.6"</li>
+    <li>"react-dom": "^18.2.0"</li>
+    <li>"react-icons": "^4.7.1"</li>
+    <li>"react-paginate": "^8.1.4"</li>
+    <li>"react-quill": "^2.0.0"</li>
+    <li>"react-redux": "^8.0.5"</li>
+    <li>"react-router-dom": "^6.7.0"</li>
+    <li>"react-scripts": "5.0.1"</li>
+    <li>"react-toastify": "^9.1.1"</li>
+</ul>
+
+
